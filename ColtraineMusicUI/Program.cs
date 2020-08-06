@@ -44,6 +44,7 @@ namespace ColtraineMusicUI
                 for (int i = 0; i < numChords.Length; i++)
                 {
 
+
                 
                 }
             
